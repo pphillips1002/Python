@@ -41,13 +41,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Anagrams" />
+  </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pphil\Desktop\Python\Python\Python Projects\Anagrams" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pphil\Desktop\Python\Python\Python Projects\Pseudonym" />
+      <recent name="C:\Users\pphil\Desktop\Python\Python\Python Projects\Pig Latin" />
       <recent name="C:\Users\pphil\Desktop\Python\Python\Python Projects\Palingrams" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.palingrams1">
-    <configuration name="load_dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.main">
+    <configuration name="anagrams" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -55,11 +63,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Palingrams" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Anagrams" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Palingrams/load_dictionary.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Anagrams/anagrams.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -68,7 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="palindromes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,11 +84,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Palingrams" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Personal Budgeting System" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Palingrams/palindromes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Personal Budgeting System/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,7 +151,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pseudonym.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\pphil\Desktop\Python\Python\Python Projects\Pseudonym\pseudonym.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.anagrams" />
         <item itemvalue="Python.palingrams1" />
         <item itemvalue="Python.pseudonym" />
         <item itemvalue="Python.palingrams" />
-        <item itemvalue="Python.palindromes" />
-        <item itemvalue="Python.load_dictionary" />
       </list>
     </recent_temporary>
   </component>
@@ -188,22 +196,22 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1483" height="241" key="GridCell.Tab.0.bottom" timestamp="1588649349645">
+    <state width="1483" height="418" key="GridCell.Tab.0.bottom" timestamp="1588777392134">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state width="1483" height="241" key="GridCell.Tab.0.bottom/0.0.1504.963@0.0.1504.963" timestamp="1588649349645" />
-    <state width="1483" height="241" key="GridCell.Tab.0.center" timestamp="1588649349644">
+    <state width="1483" height="418" key="GridCell.Tab.0.bottom/0.0.1504.963@0.0.1504.963" timestamp="1588777392134" />
+    <state width="1483" height="418" key="GridCell.Tab.0.center" timestamp="1588777392134">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state width="1483" height="241" key="GridCell.Tab.0.center/0.0.1504.963@0.0.1504.963" timestamp="1588649349644" />
-    <state width="1483" height="241" key="GridCell.Tab.0.left" timestamp="1588649349644">
+    <state width="1483" height="418" key="GridCell.Tab.0.center/0.0.1504.963@0.0.1504.963" timestamp="1588777392134" />
+    <state width="1483" height="418" key="GridCell.Tab.0.left" timestamp="1588777392134">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state width="1483" height="241" key="GridCell.Tab.0.left/0.0.1504.963@0.0.1504.963" timestamp="1588649349644" />
-    <state width="1483" height="241" key="GridCell.Tab.0.right" timestamp="1588649349645">
+    <state width="1483" height="418" key="GridCell.Tab.0.left/0.0.1504.963@0.0.1504.963" timestamp="1588777392134" />
+    <state width="1483" height="418" key="GridCell.Tab.0.right" timestamp="1588777392134">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state width="1483" height="241" key="GridCell.Tab.0.right/0.0.1504.963@0.0.1504.963" timestamp="1588649349645" />
+    <state width="1483" height="418" key="GridCell.Tab.0.right/0.0.1504.963@0.0.1504.963" timestamp="1588777392134" />
     <state width="1483" height="317" key="GridCell.Tab.1.bottom" timestamp="1588648696790">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
